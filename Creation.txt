@@ -1,0 +1,8 @@
+START OF PROGRAM
+
+declare set of elements
+declare canvas
+generate files
+take user input to filter the wanted files from the unwanted files.
+
+END OF PROGRAM
